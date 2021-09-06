@@ -215,6 +215,22 @@ while ( true ) {
 
 <!-- /.examples -->
 
+<!-- Section for related `stdlib` packages. Do not manually edit this section, as it is automatically populated. -->
+
+<section class="related">
+
+* * *
+
+## See Also
+
+-   [`@stdlib/random/base/lognormal`][@stdlib/random/base/lognormal]: log-normally distributed pseudorandom numbers.
+
+</section>
+
+<!-- /.related -->
+
+<!-- Section for all links. Make sure to keep an empty line after the `section` element and another before the `/section` close. -->
+
 
 <section class="main-repo" >
 
@@ -273,6 +289,12 @@ Copyright &copy; 2016-2021. The Stdlib [Authors][stdlib-authors].
 [lognormal]: https://en.wikipedia.org/wiki/Log-normal_distribution
 
 [@stdlib/array/uint32]: https://github.com/stdlib-js/array-uint32
+
+<!-- <related-links> -->
+
+[@stdlib/random/base/lognormal]: https://github.com/stdlib-js/random-base-lognormal
+
+<!-- </related-links> -->
 
 </section>
 
